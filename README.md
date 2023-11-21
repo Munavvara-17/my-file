@@ -1,2 +1,2 @@
 # my-file
-This is my repository
+This is my repository.
